@@ -1,5 +1,14 @@
 # embarcados-t1
 
+## Motivação
+
+Explorar as relações de custo-benefício nas diferentes arquiteturas e
+organizações disponíveis para processadores embarcados.
+Neste trabalho, consideraremos:
+- a arquitetura de propósito geral ARM;
+- os processadores DSP da família Blackfin;
+- e os microcontroladores 8051.
+
 
 ## Algorithms on ARM
 
