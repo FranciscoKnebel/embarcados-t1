@@ -9,6 +9,7 @@ Neste trabalho, consideraremos:
 - os processadores DSP da família Blackfin;
 - e os microcontroladores 8051.
 
+Video presentation (PT-br) available at https://www.youtube.com/watch?v=Z75asXmN4AI
 
 ## Algorithms on ARM
 
